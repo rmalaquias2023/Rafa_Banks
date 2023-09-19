@@ -1,11 +1,13 @@
-# Nome do meu projeto
+# Rafa Bank
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de final de modulo, que simula sistema de banco digital, utilizando loop's e tomadas de decisões (IF, ELSE, SWITCH e CASE). Projeto desenvolvido na linguagem JAVA. 
+
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Rafa Banks**
+| :label: Tecnologias | java
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
@@ -14,4 +16,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto apresenta funções que simula transferência via PIX, resgate e aplicação de valores de conta corrente para conta poupança, fazendo verificação de saldo, não permitindo que tal operação seja feita devido a saldo insulficiente! 
