@@ -12,7 +12,7 @@ Projeto de final de modulo, que simula sistema de banco digital, utilizando loop
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/rmalaquias2023/Rafa_Banks/blob/main/Captura.PNG#vitrinedev)
 
 ## Detalhes do projeto
 
